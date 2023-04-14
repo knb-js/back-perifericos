@@ -8,4 +8,5 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class TestEntity {
+    private String test;
 }
